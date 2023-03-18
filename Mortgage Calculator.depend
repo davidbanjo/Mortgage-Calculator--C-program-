@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1676642740 source:c:\users\binat\onedrive\desktop\c programming files\mortgage calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
